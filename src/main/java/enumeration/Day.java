@@ -1,0 +1,6 @@
+package enumeration;
+
+public enum Day
+{
+MONDAY,THUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAY;
+}

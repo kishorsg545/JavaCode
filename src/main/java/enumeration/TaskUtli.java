@@ -2,7 +2,7 @@ package enumeration;
 
 public class TaskUtli
 {
-    public static int getEstimatiedCompletionTime(PriorityEnum priorityenum)
+    public static int getEstimatedCompletionTime(PriorityEnum priorityenum)
     {
         return switch (priorityenum)
         {
